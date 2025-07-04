@@ -1,1 +1,1 @@
-🔗 Live demo: [firefly-cu.github.io/Webbshop](https://firefly-cu.github.io/Webshop/)
+🔗 Live demo: [firefly-cu.github.io/Webbshop](https://firefly-cu.github.io/Webbshop/)
